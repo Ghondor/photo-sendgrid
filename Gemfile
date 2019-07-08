@@ -16,10 +16,14 @@ gem 'uglifier', '>= 1.3.0'
 gem 'devise-bootstrap-views'
 gem "font-awesome-rails"
 gem 'bootstrap'
+gem "twitter-bootstrap-rails"
 gem 'jquery-rails'
 
 gem 'devise'
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 

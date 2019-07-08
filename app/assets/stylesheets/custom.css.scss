@@ -41,3 +41,9 @@
   list-style: none;
   padding-left: 0;
 }
+.image-name-table {
+  color: #000;
+  &:hover {
+    text-decoration: none;
+  }
+}
